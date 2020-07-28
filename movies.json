@@ -121,7 +121,7 @@
           "primaryTitle": {
             "S": "Motherless Brooklyn"
           },"isComedy": {
-					"BOOL": false
+					"BOOL": true
 				},
 				"Years": {
 					"NS": ["2011","2012"]
