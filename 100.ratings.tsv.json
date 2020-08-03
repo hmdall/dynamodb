@@ -1,0 +1,8 @@
+{ "ratings": [
+{ "PutRequest": {"Item":{"tconst": {"S": "tt0305295"}, "averageRating": {"S": "6.1"}, "numVotes": {"S": "16"}}}},
+{ "PutRequest": {"Item":{"tconst": {"S": "tt0385887"}, "averageRating": {"S": "6.8"}, "numVotes": {"S": "32968"}}}},
+{ "PutRequest": {"Item":{"tconst": {"S": "tt0489974"}, "averageRating": {"S": "7.9"}, "numVotes": {"S": "40479"}}}},
+{ "PutRequest": {"Item":{"tconst": {"S": "tt0800325"}, "averageRating": {"S": "7.0"}, "numVotes": {"S": "36746"}}}},
+{ "PutRequest": {"Item":{"tconst": {"S": "tt0810836"}, "averageRating": {"S": "5.3"}, "numVotes": {"S": "135"}}}},
+{ "PutRequest": {"Item":{"tconst": {"S": "tt0837563"}, "averageRating": {"S": "5.7"}, "numVotes": {"S": "75522"}}}},
+{ "PutRequest": {"Item":{"tconst": {"S": "tt0846775"}, "averageRating": {"S": "7.2"}, "numVotes": {"S": "12"}}}}]}
